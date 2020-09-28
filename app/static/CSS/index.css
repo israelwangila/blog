@@ -1,0 +1,47 @@
+body {
+    background: #fafafa;
+    color: #333333;
+    margin-top: 5rem;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: #444444;
+  }
+  
+  .pitch-area {
+    background: #ffffff;
+    padding: 10px 20px;
+    border: 3px solid #dddddd;
+    border-radius: 3px;
+    margin-bottom: 20px;
+  }
+  .site-header .navbar-nav .nav-link {
+    color: #cbd5db;
+  }
+  
+  .site-header .navbar-nav .nav-link:hover {
+    color: #ffffff;
+  }
+  
+  .site-header .navbar-nav .nav-link.active {
+    font-weight: 500;
+  }
+.section-title {
+    color: #444444;
+}
+a.section-title:hover {
+  color: #428bca;
+  text-decoration: none;
+  }
+  .section-content {
+    white-space: pre-line;
+    }
+.section {
+  padding-bottom: 1px;
+  margin-bottom: 4px;
+  border-bottom: 1px solid #e3e3e3
+  }
+.section a:hover {
+  color: #333;
+  text-decoration: none;
+  }
