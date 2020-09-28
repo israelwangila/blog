@@ -5,7 +5,7 @@
 [Israel Wangila]
 
 # Description
-This  is a flask application which provides users a platform to post blogs, edit and delite blogs. Users can also add and delete comments to already existing and new posts 
+This is a flask application that provides users a platform to post blogs, edit and delete blogs. Users can also add and delete comments to already existing and new posts 
 ## Live Link
 [View Site](https://thisblog.herokuapp.com/)
 
